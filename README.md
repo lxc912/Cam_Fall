@@ -19,14 +19,14 @@ The activities in this project are divided into two parts based on semesters.
 
 ## Group Members & Distribution
 > ### Spoken Person:
-> - Xiangji Li (u6729279)--------- Full-stack developer
-> - Wangtao jia (u7370733)--------- Full-stack developer
+> - Xiangji Li --------- Audio detection developer
+> - Wangtao jia --------- Audio detection developer
 >### Other Members:
-> - Han Yan (u7618352) --------- Full-stack developer
-> - Linsheng Zhou (u7630421)--------- Full-stack developer
-> - Yufei Huang (u7618859)--------- Full-stack developer
-> - Haoxiang Wang (u7544188)--------- Full-stack developer
-> - Xiaochen Lu (u7630926)--------- Full-stack developer
+> - Han Yan --------- Video detection developer
+> - Linsheng Zhou --------- Audio detection developer
+> - Yufei Huang ---------Audio detection developer
+> - Haoxiang Wang --------- Video detection developer
+> - Xiaochen Lu --------- Video detection developer
 
 ## Project Goals
 > <ol><li> Develop <strong>a robust fall detection algorithm</strong> using computer vision techniques for real-time analysis of camera footage.</li>
